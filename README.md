@@ -6,7 +6,7 @@ Repo ukázka pro práci s GraphQL
 ###### Co bude potřeba
 - ✅ Pošťák Pet
 - ✅ IQ 20+
-- ❌ Nohy
+- ❌ REST
 
 ###### Základní potřebné commandy
 - `npm start` - spustí server
