@@ -246,4 +246,21 @@ query {
         }
     }
 }
+
+query {
+    books {
+        id,
+        name,
+        pages,
+        releaseDate,
+        price,
+        author {
+            id,
+            name,
+            description,
+            dateOfBirth,
+            quote
+        }
+    }
+}
 */
